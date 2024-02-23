@@ -22,7 +22,7 @@ const parent = React.createElement("div", {id:"parent"},[
 ])
 
 
-console.log(parent);
+console.log(parent); //parent is an object
 
 const heading = React.createElement("h1", {id:"heading"}, "Namaste from React");
 
